@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MiniProject3AssetTracking/1.0.0": {
+        "runtime": {
+          "MiniProject3AssetTracking.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MiniProject3AssetTracking/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

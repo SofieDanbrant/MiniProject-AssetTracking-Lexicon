@@ -1,0 +1,14 @@
+D:\Users\sofie\source\repos\MiniProject3AssetTracking\MiniProject3AssetTracking\obj\Debug\net8.0\MiniProject3AssetTracking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\sofie\source\repos\MiniProject3AssetTracking\MiniProject3AssetTracking\obj\Debug\net8.0\MiniProject3AssetTracking.AssemblyInfoInputs.cache
+D:\Users\sofie\source\repos\MiniProject3AssetTracking\MiniProject3AssetTracking\obj\Debug\net8.0\MiniProject3AssetTracking.AssemblyInfo.cs
+D:\Users\sofie\source\repos\MiniProject3AssetTracking\MiniProject3AssetTracking\obj\Debug\net8.0\MiniProject3AssetTracking.csproj.CoreCompileInputs.cache
+D:\Users\sofie\source\repos\MiniProject3AssetTracking\MiniProject3AssetTracking\bin\Debug\net8.0\MiniProject3AssetTracking.exe
+D:\Users\sofie\source\repos\MiniProject3AssetTracking\MiniProject3AssetTracking\bin\Debug\net8.0\MiniProject3AssetTracking.deps.json
+D:\Users\sofie\source\repos\MiniProject3AssetTracking\MiniProject3AssetTracking\bin\Debug\net8.0\MiniProject3AssetTracking.runtimeconfig.json
+D:\Users\sofie\source\repos\MiniProject3AssetTracking\MiniProject3AssetTracking\bin\Debug\net8.0\MiniProject3AssetTracking.dll
+D:\Users\sofie\source\repos\MiniProject3AssetTracking\MiniProject3AssetTracking\bin\Debug\net8.0\MiniProject3AssetTracking.pdb
+D:\Users\sofie\source\repos\MiniProject3AssetTracking\MiniProject3AssetTracking\obj\Debug\net8.0\MiniProject3AssetTracking.dll
+D:\Users\sofie\source\repos\MiniProject3AssetTracking\MiniProject3AssetTracking\obj\Debug\net8.0\refint\MiniProject3AssetTracking.dll
+D:\Users\sofie\source\repos\MiniProject3AssetTracking\MiniProject3AssetTracking\obj\Debug\net8.0\MiniProject3AssetTracking.pdb
+D:\Users\sofie\source\repos\MiniProject3AssetTracking\MiniProject3AssetTracking\obj\Debug\net8.0\MiniProject3AssetTracking.genruntimeconfig.cache
+D:\Users\sofie\source\repos\MiniProject3AssetTracking\MiniProject3AssetTracking\obj\Debug\net8.0\ref\MiniProject3AssetTracking.dll
